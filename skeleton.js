@@ -11,6 +11,15 @@
         this.SL = {};
     }
 
+    /*
+        Change this to match the name of your saver/loader:
+        eg: 
+        this.SL.Mine = Skeleton;
+
+        or completely rename the class:
+
+        this.SL.Mine = Mine;
+    */
     this.SL.Skeleton = Skeleton;
 
     /*
